@@ -1,4 +1,2 @@
-# Project: Basics
-
-## 0-current_working_directory
-This script prints the absolute path name of the current working directory using the `pwd` command.
+holbertonschool-shell
+This repository contains various Bash scripts created as part of my project at Holberton School. Each script is designed to perform a specific task in a concise manner, following strict formatting and execution guidelines.
